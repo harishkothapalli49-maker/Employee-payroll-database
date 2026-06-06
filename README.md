@@ -1,2 +1,11 @@
-# Employee-payroll-database
-this project is done by using my sql
+# MySQL Project
+
+## Description
+This project is developed using MySQL.
+
+## Features
+- Create Tables
+- Insert Data
+- Update Data
+- Delete Data
+- Retrieve Data
